@@ -1,0 +1,25 @@
+body{
+    text-align: center;
+    color: #35424e;
+    border-bottom: 1px solid #5614cf;
+    padding: 4%;
+    background-color: rgb(222, 223, 210);
+}
+h2{
+    color: #532dda;  
+    padding: 2%;
+}
+.btn {
+    border: 1px solid hsl(239, 50%, 20%);
+    color: #340acc;
+    padding: 2%;
+    
+}
+input{
+    color: #340acc;
+}
+label{
+    color: #6a8ae0;
+}
+.hide{display: none;}
+.red{color:red;}
